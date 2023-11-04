@@ -1,0 +1,33 @@
+{
+    "type":"points",
+    "module":"modbus",
+    "description":"Nube-iO controller type IO-16",
+    "points":[
+        {
+            "name": "UI1",
+            "description": "10K sensor",
+            "enable": true,
+            "cov": null,
+            "object_type": "input_register",
+            "data_type": "uint16",
+            "object_encoding": "beb_lew",
+            "address_id": 1,
+            "address_length": null,
+            "decimal": 2,
+            "multiplication_factor": 0.001
+        },
+        {
+            "name": "UI2",
+            "description": "10K sensor",
+            "enable": true,
+            "cov": null,
+            "object_type": "input_register",
+            "data_type": "uint16",
+            "object_encoding": "beb_lew",
+            "address_id": 1,
+            "address_length": null,
+            "decimal": 2,
+            "multiplication_factor": 0.001
+        }
+    ]
+}
