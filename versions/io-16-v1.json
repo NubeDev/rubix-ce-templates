@@ -27,7 +27,7 @@
   "networks": [
     {
       "uuid": "net_80f5781587bc47cf",
-      "name": "Modbus serial",
+      "name": "Modbus serial network",
       "description": "Modbus serial Network",
       "enable": true,
       "fault": true,
