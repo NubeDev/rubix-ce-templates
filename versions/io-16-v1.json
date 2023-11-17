@@ -10,8 +10,8 @@
   },
   "apps": [
     {
-      "name": "driver-lora",
-      "description": "lora-network",
+      "name": "rubix-edge-wires",
+      "description": "rubix-edge-wires",
       "minVersion": "",
       "minMaxVersion": ""
     }
