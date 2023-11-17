@@ -1,5 +1,5 @@
 {
-  "name": "modbus network",
+  "name": "RQl example",
   "version": "v1.0.0",
   "lastUpdated": "2023/11/12",
   "description": "Nube-iO controller type IO-16",
@@ -18,8 +18,8 @@
   ],
   "modules": [
     {
-      "name": "module-core-system",
-      "description": "module-core-system",
+      "name": "module-core-rql",
+      "description": "RQL (rubix query lang)",
       "minVersion": "",
       "minMaxVersion": ""
     }
