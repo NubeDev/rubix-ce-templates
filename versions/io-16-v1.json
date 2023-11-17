@@ -5,23 +5,23 @@
   "description": "Nube-iO controller type IO-16",
   "image": "https://nube-io.com/wp-content/uploads/2022/04/RIO16-Front.png",
   "ros": {
-    "minVersion": "v0.0.0",
-    "minMaxVersion": "v0.0.1"
+    "minVersion": "",
+    "minMaxVersion": ""
   },
   "apps": [
     {
       "name": "driver-lora",
       "description": "lora-network",
-      "minVersion": "v0.0.0",
-      "minMaxVersion": "v0.0.1"
+      "minVersion": "",
+      "minMaxVersion": ""
     }
   ],
   "modules": [
     {
-      "name": "modbus",
-      "description": "modbus driver",
-      "minVersion": "v0.0.0",
-      "minMaxVersion": "v0.0.1"
+      "name": "system module",
+      "description": "module-core-system",
+      "minVersion": "",
+      "minMaxVersion": ""
     }
   ],
   "networks": [
